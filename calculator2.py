@@ -1,0 +1,11 @@
+a = input("enter your first number here :")
+b = input("enter your second number here ")
+
+print('The Value of ' , a ,'+' , b ,'is' , int(a) + int(b))
+print('The Value of ' , a , '-' , b , 'is ' , int(a) - int(b)) 
+print('The Value of ' , a , '/' , b , 'is ' , int(a) / int(b)) 
+print('The Value of ' , a , '*' , b , 'is ' , int(a) * int(b)) 
+print('The Value of ' , a , '%' , b , 'is ' , int(a) % int(b)) 
+print('The Value of ' , a , '**' , b , 'is ' , int(a) ** int(b)) 
+print('The Value of ' , a , '//' , b , 'is ' , int(a) // int(b)) 
+# print('The Value of ' , a , '-' , b , 'is ' , a  b) 

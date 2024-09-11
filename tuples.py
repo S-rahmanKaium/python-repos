@@ -1,0 +1,1 @@
+#pore kormu eida eida same as list but more like a constent 
